@@ -8,5 +8,5 @@ For this tool to work, you will need two messages with:
     Different Exponent values
     Different Ciphertexts
 
-This tool uses a euclidean extended greatest common denominator function found at https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm
+This tool uses a euclidean extended greatest common denominator function found at: https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm
 
