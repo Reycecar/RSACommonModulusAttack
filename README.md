@@ -1,8 +1,8 @@
 # RSACommonModulusAttack
-Tool for breaking RSA when you have two messages with a common modulus
-All inputs into the python file must be in hex!
+## Tool for breaking RSA when you have two messages with a common modulus
+## All inputs into the python file must be in hex!
 
-For this tool to work, you will need two messages with:
+### For this tool to work, you will need two messages with:
 ```
     A common modulus value (N)
     The same plaintext value
